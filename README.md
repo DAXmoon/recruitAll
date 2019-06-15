@@ -1,5 +1,5 @@
 # recruitAll
-# cd recruit
+\\ cd recruit\\
 # npm i
 # npm run dev
 # cd server
